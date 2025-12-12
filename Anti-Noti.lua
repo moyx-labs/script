@@ -12,7 +12,7 @@
 ]]--
 WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
         WindUI:Notify({
-        Title = "6 โมงเย็นนี้ (12/12/68)",
+        Title = "19.00 นี้ (12/12/68)",
         Content = "จะปลดล็อคให้ใช้ได้ จนถึงเวลาที่กำหนดไว้\n" ..
                   "--------------------------------\n" ..
                   "[TH] **เปลี่ยนเงื่อนไขการใช้งาน**\n" ..
